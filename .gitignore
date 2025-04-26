@@ -1,0 +1,26 @@
+# XAMPP specific
+.htaccess
+php_errors.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Dependencies
+/vendor/
+node_modules/
+
+# Logs
+*.log
+logs/ 

@@ -1,0 +1,2 @@
+$key_id = 'rzp_test_KfTKbgGeTHoTEN';
+$key_secret = 'KTeQwVmCxWFSBIvOfYKEsVeF';
